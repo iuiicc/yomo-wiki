@@ -6,6 +6,8 @@
 
 ![](../.gitbook/assets/PixPin\_2024-08-02\_10-13-53.png)![](../.gitbook/assets/PixPin\_2024-08-02\_10-44-28.png)![](../.gitbook/assets/PixPin\_2024-08-02\_10-44-57.png)![](../.gitbook/assets/PixPin\_2024-08-02\_10-45-41.png)
 
+新用户注册完成之后请**及时登录**Emby使用，如果注册后**一天之内**未登录观看，你的账号将被BAN，请**自行承担后果**
+
 ### 查看线路 <a href="#cha-kan-xian-lu" id="cha-kan-xian-lu"></a>
 
 私聊Bot[@yomoemby\_bot](https://t.me/yomoemby\_bot)，使用 `/start` 命令开启用户面板，点击**服务器**获取
