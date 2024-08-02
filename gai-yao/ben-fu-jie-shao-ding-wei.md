@@ -1,5 +1,5 @@
 ---
-description: 本质上Yomo服不服就是一个提供臭看片服务的站点，使用Emby部署
+description: 本质上Yomo服不服定位是一个免费的硬盘服，旨在为大家提供免费良好的观影体验
 ---
 
 # 本服介绍&定位
@@ -16,7 +16,7 @@ description: 本质上Yomo服不服就是一个提供臭看片服务的站点，
 
 ## 本站理念
 
-yomo服本意是给 [@yomoabcd](https://t.me/yomoabcd) 群里的兄弟们搞个观影福利。也正如以往抽奖一样，需要带点运气成分才能拥有。
+yomo服不服本意是给 [@yomoabcd](https://t.me/yomoabcd) 群里的兄弟们搞个观影福利。也正如以往抽奖一样，需要带点运气成分才能拥有。
 
 ### 一些限制 <a href="#ru-qun-xu-zhi" id="ru-qun-xu-zhi"></a>
 
