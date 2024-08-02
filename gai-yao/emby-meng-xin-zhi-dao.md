@@ -10,7 +10,7 @@ Emby界面设置：Emby右上角-应用程序设置-显示
 
 **不要开启**显示每季里缺少的集功能
 
-![](../.gitbook/assets/PixPin\_2024-08-02\_11-30-07.png)![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252FlVtgIxUDqiR3eUX6SVLK%252Fimage.png%3Falt%3Dmedia%26token%3D3a94ca7d-0dbb-427b-8a71-36bbc6d0fe61\&width=768\&dpr=4\&quality=100\&sign=5b410d73\&sv=1)
+![](../.gitbook/assets/PixPin\_2024-08-02\_11-30-07.png)![](../.gitbook/assets/PixPin\_2024-08-02\_13-22-37.png)
 
 ### 主屏幕建议 <a href="#zhu-ping-mu-jian-yi" id="zhu-ping-mu-jian-yi"></a>
 
@@ -20,7 +20,7 @@ Emby界面设置：Emby右上角-应用程序设置-主屏幕
 * 取消【隐藏已完全播放内容】
 * 设定自己喜欢的媒体库显示顺序
 
-![](../.gitbook/assets/PixPin\_2024-08-02\_11-30-07.png)![](../.gitbook/assets/PixPin\_2024-08-02\_12-47-18.png)![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252FsIcXQ6t7PPS3JH2ImuzB%252Fimage.png%3Falt%3Dmedia%26token%3D50852ad5-216c-45c3-92cd-f72d345a01b8\&width=768\&dpr=4\&quality=100\&sign=68c12931\&sv=1)![](../.gitbook/assets/PixPin\_2024-08-02\_12-48-14.png)
+![](../.gitbook/assets/PixPin\_2024-08-02\_11-30-07.png)![](../.gitbook/assets/PixPin\_2024-08-02\_12-47-18.png)![](../.gitbook/assets/PixPin\_2024-08-02\_13-23-20.png)![](../.gitbook/assets/PixPin\_2024-08-02\_12-48-14.png)
 
 ### 播放/字幕建议 <a href="#bo-fang-zi-mu-jian-yi" id="bo-fang-zi-mu-jian-yi"></a>
 
