@@ -28,7 +28,7 @@ Emby右上角-应用程序设置-播放 音频无所谓，视频选择源媒体�
 
 Emby右上角-应用程序设置-字幕 为了方便，建议字幕喜好选择简体中文
 
-![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252Fcis3BvuDX81bXa8rHvxw%252Fimage.png%3Falt%3Dmedia%26token%3Dda5ef487-a17c-4458-9c5c-02e87bc71bfc\&width=768\&dpr=4\&quality=100\&sign=720c46a6\&sv=1)![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252Fp7fSJpQrxDSVncponSGw%252Fimage.png%3Falt%3Dmedia%26token%3Da7e6a211-b044-4d30-8b5f-99fadbc22fe3\&width=768\&dpr=4\&quality=100\&sign=d5bcac70\&sv=1)![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252F9Wk0gMHyNQyC4jUGdtNR%252Fimage.png%3Falt%3Dmedia%26token%3D7b678e90-4014-4635-bfec-b6d2a47c858e\&width=768\&dpr=4\&quality=100\&sign=d2f67822\&sv=1)
+![](../.gitbook/assets/PixPin\_2024-08-02\_13-26-38.png)![](../.gitbook/assets/PixPin\_2024-08-02\_13-26-14.png)![](../.gitbook/assets/PixPin\_2024-08-02\_13-26-51.png)
 
 ### 禁止添加播放列表 <a href="#jin-zhi-tian-jia-bo-fang-lie-biao" id="jin-zhi-tian-jia-bo-fang-lie-biao"></a>
 

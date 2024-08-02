@@ -17,12 +17,12 @@ IOS:
 
 当看到以下界面时，应点击跳过/下一步，不要使用Emby Connect
 
-![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252FVbvNzjRjEQUcaUonJk7e%252Fimage.png%3Falt%3Dmedia%26token%3De68e2947-ed9b-46de-9b68-da7f183de751\&width=768\&dpr=4\&quality=100\&sign=b12a3d09\&sv=1)
+<img src="../.gitbook/assets/PixPin_2024-08-02_13-38-10.png" alt="" data-size="original">
 
-随后将Bot中获取的线路输入，注意拆分主机与端口，有问题可问群友
+随后将Bot中获取的线路输入，注意拆分主机与端口
 
-![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252Fmij6JzgkdYFeFmWQRRoO%252Fimage.png%3Falt%3Dmedia%26token%3De5ac70c2-e1df-4faf-a77d-c3e047206fda\&width=768\&dpr=4\&quality=100\&sign=ee93c7a5\&sv=1)
+![](../.gitbook/assets/image.png)
 
 随后登录你的账号即可食用
 
-![](https://pilipili.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3038629546-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxVOBUnnAiLVHgYtwgz9X%252Fuploads%252FAPDt4VTCjFQuyRqIrgxl%252Fimage.png%3Falt%3Dmedia%26token%3D15cd6652-1dad-4260-944f-6f0b3cdb8968\&width=768\&dpr=4\&quality=100\&sign=3a116fb3\&sv=1)
+![](<../.gitbook/assets/image (1).png>)
