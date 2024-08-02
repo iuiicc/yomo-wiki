@@ -1,15 +1,12 @@
 # Table of contents
 
 * [概要](README.md)
-  * [本站介绍&定位](gai-yao/ben-zhan-jie-shao-ding-wei.md)
-  * [注册/线路使用/里番媒体库开关](gai-yao/zhu-ce-xian-lu-shi-yong-li-fan-mei-ti-ku-kai-guan.md)
+  * [本服介绍&定位](gai-yao/ben-fu-jie-shao-ding-wei.md)
+  * [注册/线路使用](gai-yao/zhu-ce-xian-lu-shi-yong.md)
   * [更改用户名/修改密码/密码重置/账号转移](gai-yao/geng-gai-yong-hu-ming-xiu-gai-mi-ma-mi-ma-zhong-zhi-zhang-hao-zhuan-yi.md)
   * [客户端推荐与Emby登录](gai-yao/ke-hu-duan-tui-jian-yu-emby-deng-lu.md)
   * [Emby萌新指导](gai-yao/emby-meng-xin-zhi-dao.md)
-  * [PiliPili新番命名片源详情](gai-yao/pilipili-xin-fan-ming-ming-pian-yuan-xiang-qing.md)
   * [Remux库查看方法](gai-yao/remux-ku-cha-kan-fang-fa.md)
-  * [PiliPili图标库及食用说明](gai-yao/pilipili-tu-biao-ku-ji-shi-yong-shuo-ming.md)
-  * [问题反馈&&求片](gai-yao/wen-ti-fan-kui-qiu-pian.md)
   * [常见问题/附加内容](gai-yao/chang-jian-wen-ti-fu-jia-nei-rong.md)
 * [在各种设备上播放](zai-ge-zhong-she-bei-shang-bo-fang/README.md)
   * [电脑浏览器播放](zai-ge-zhong-she-bei-shang-bo-fang/dian-nao-liu-lan-qi-bo-fang.md)
